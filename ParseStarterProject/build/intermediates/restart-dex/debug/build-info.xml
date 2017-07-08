@@ -2,59 +2,32 @@
 <instant-run
     abi="x86,armeabi-v7a,armeabi"
     api-level="24"
-    build-mode="FULL"
+    build-mode="COLD"
     density="xhdpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1499527698716"
+    timestamp="1499535696307"
     token="-1746935381643323674"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="11420" />
+        duration="56247" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1966" />
+        duration="10305" />
     <task
         name="verifier"
-        duration="1566" />
+        duration="2221" />
 
     <artifact
-        location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
         location="C:\Users\acer\Twitter\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
@@ -96,6 +69,20 @@
             type="SPLIT" />
         <artifact
             location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\acer\Twitter\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1499535696307"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\acer\Twitter\ParseStarterProject\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\acer\Twitter\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"

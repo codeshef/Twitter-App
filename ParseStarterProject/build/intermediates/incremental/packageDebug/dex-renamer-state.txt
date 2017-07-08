@@ -1,4 +1,4 @@
-#Sat Jul 08 21:00:49 IST 2017
+#Sat Jul 08 23:16:16 IST 2017
 base.0=C\:\\Users\\acer\\Twitter\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1937c32566f86f4932abe8b267a7b17f1dd04426
 renamed.1=classes2.dex
 renamed.0=classes.dex

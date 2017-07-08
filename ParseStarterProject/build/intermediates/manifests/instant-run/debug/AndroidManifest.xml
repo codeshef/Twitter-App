@@ -43,6 +43,7 @@
             </intent-filter>
         </activity>
         <activity android:name="com.parse.starter.Main2Activity" />
+        <activity android:name="com.parse.starter.Feed" />
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
